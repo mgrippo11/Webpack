@@ -1,13 +1,13 @@
-# Webpack Starter
+# Webpack Starter Template
 
 Proyecto inicial para usar Webpack.
 
 ### Notes:
 
-reconstruir los modulos de node.
++reconstruir los modulos de node.
 
 npm install
 ******************************
-reconstruir los build
++reconstruir los build
 
 npm run buils
